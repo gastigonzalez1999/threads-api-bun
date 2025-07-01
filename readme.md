@@ -1,3 +1,5 @@
+Simple API for trying out bin. WIP
+
 # Hono with Bun runtime
 
 ## Getting Started
